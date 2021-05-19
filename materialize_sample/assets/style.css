@@ -41,3 +41,10 @@ p {
     display: inline-block;
     text-align: center;
 }
+
+#credits {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    margin: 5px;
+}
