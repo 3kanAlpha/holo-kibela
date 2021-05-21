@@ -21,6 +21,10 @@ p {
     font-size: 14px;
 }
 
+h2 {
+    font-family: 'Pattaya', sans-serif;
+}
+
 .inputs {
     margin-top: 10px;
     margin-bottom: 10px;
@@ -34,6 +38,7 @@ p {
     background-color: rgba(255, 255, 255, 1);
     border: solid 1px;
     border-color: darkgrey;
+    border-radius: 20px;
     text-align: center;
 }
 
